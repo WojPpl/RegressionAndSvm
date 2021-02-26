@@ -4,7 +4,7 @@ Machine learning - regression
 ## Rozwiązywane problemy regresji
 housing.ipynb - Ilość sypialni na ilość wszystkich pokoi w mieszkaniach
 
-facebook.ipynb - Ilość udostępnień na bazie ilości lików
+facebook.ipynb - Ilość udostępnień na bazie ilości like'ów
 
 appstore.ipynb - Ilość opini użytkowników w stosunku do ilości pobrań
 
