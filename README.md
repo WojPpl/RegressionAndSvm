@@ -1,2 +1,2 @@
 # RegressionAndSvm
-Machine learning - regreson
+Machine learning - regression
